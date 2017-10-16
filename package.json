@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "webpack"
+  },
+  "dependencies": {
+    "extract-text-webpack-plugin": "^3.0.1",
+    "raw-loader": "^0.5.1",
+    "webpack": "^3.7.1"
+  }
+}
